@@ -1,7 +1,7 @@
 <?php
-$spreadsheetId = "1WfH0rmE-OGZqxwVFkf3ICTKEToEaXRUHjo3Hr69Hdyc";
+$spreadsheetId = "";
 $clientSecret = "";
-$key = "AIzaSyCtQ24rbsabaMsMmDzxJ6SJXUI5zfQjnWs";
+$key = "";
 $range = "A1:Z999";
 ?>
 
